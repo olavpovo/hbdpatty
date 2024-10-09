@@ -1,11 +1,11 @@
 {
-  "greeting": "Hiya",
-  "name": "Lydia",
+  "greeting": "Hallo, Hello, Bonjour",
+  "name": "Ms Mouri!",
   "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
+  "wishText": "Positive, assertive, smart, empathetic, stunning, attentive-  A BOSS WOMAN",
   "imagePath": "img/lydia2.png",
   "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "textInChatBox": "You are miles, erm, kilometers away, so here's a poem..and a bunch of reels",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
   "text3": "But then I stopped.",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
+  "outroText": "Okay, back to Python, pls send reels",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
